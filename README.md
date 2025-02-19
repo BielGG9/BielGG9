@@ -24,7 +24,7 @@ Desenvolvedor apaixonado por tecnologia 🚀
 
 🔹 **Linguagens mais usadas**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielGG9E&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielGG9&layout=compact&theme=tokyonight" />
 </p>
 
 🔹 **Conecte-se comigo**  
