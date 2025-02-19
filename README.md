@@ -3,7 +3,7 @@ Desenvolvedor apaixonado por tecnologia 🚀
 
 🔹 **Sobre mim** 
 - 💡 Sempre aprendendo e explorando novas tecnologias  
-- 📌 Foco em desenvolvimento com Java, Python, Quarkus, Django, Flutter e Web (HTML, CSS, JavaScript)  
+- 📌 Estou em desenvolvimento com Java, Python, Quarkus, Django, Flutter e Web (HTML, CSS, JavaScript)  
 - 🎯 Buscando oportunidades para contribuir e crescer  
 
 🔹 **Tech Stack**  
@@ -18,14 +18,18 @@ Desenvolvedor apaixonado por tecnologia 🚀
 
 🔹 **GitHub Stats**  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BielGG9&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BielGG9&theme=tokyonight" />
+</p>
+
+🔹 **Linguagens mais usadas**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielGG9E&layout=compact&theme=tokyonight" />
 </p>
 
 🔹 **Conecte-se comigo**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-magalhães-94a68a28a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gahbochechas2/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
 
 ---
 🚀 *"Transformando café em código desde sempre."* ☕
