@@ -3,18 +3,12 @@ Desenvolvedor apaixonado por tecnologia 🚀
 
 🔹 **Sobre mim** 
 - 💡 Sempre aprendendo e explorando novas tecnologias  
-- 📌 Estou em desenvolvimento com Java, Python, Quarkus, Django, Flutter e Web (HTML, CSS, JavaScript)  
+- 📌 Estou em desenvolvimento com Java, Quarkus.
 - 🎯 Buscando oportunidades para contribuir e crescer  
 
 🔹 **Tech Stack**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 🔹 **GitHub Stats**  
 <p align="center">
