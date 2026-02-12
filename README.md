@@ -9,6 +9,7 @@ Desenvolvedor apaixonado por tecnologia 🚀
 🔹 **Tech Stack**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
